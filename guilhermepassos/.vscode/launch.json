@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Arrendondar",
+            "request": "launch",
+            "mainClass": "Arrendondar",
+            "projectName": "guilhermepassos_18d3dcde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entradas",
+            "request": "launch",
+            "mainClass": "Entradas",
+            "projectName": "guilhermepassos_8a1df5b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch guilhermepassos",
+            "request": "launch",
+            "mainClass": "guilhermepassos",
+            "projectName": "guilhermepassos_8a1df5b8"
+        },
+        {
+            "type": "java",
+            "name": "Launch mediaAluno",
+            "request": "launch",
+            "mainClass": "mediaAluno",
+            "projectName": "guilhermepassos_8a1df5b8"
+        }
+    ]
+}
